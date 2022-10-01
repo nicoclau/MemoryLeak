@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MemoryLeak": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
